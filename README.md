@@ -63,7 +63,7 @@ To remain relevant, QA engineers should focus on:
 
 ## Related Video
 **YouTube:** *Future of QA in 2026 – AI, Agentic QA & the New Testing Era*  
-(Add the video link here once published)
+(https://youtu.be/oyEy4usLkJE)
 
 ---
 
